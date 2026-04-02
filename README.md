@@ -1,9 +1,12 @@
 # 💫 About Me:
-Hi, I’m Tumelo 👋<br>I’m a 2nd year Computer Science student at Georgia Tech, passionate about building tech that makes a difference. I’m especially interested in full-stack development and AI, and I’m passionate about using tech to make education and healthcare more accessible. I enjoy breaking down complex problems and turning them into clean, scalable solutions — and I’m always excited to learn something new along the way. 
+Hi, I'm Tumelo 👋 <br>
+I'm a 2nd year Computer Science and Fintech student at Georgia Tech, passionate about building tech that makes a difference. I'm especially interested in full-stack development, AI/ML, and quantitative development, and I'm passionate about using tech to make education, healthcare, and finance more accessible and efficient.
 
 ## 🚀 What I'm up to:
 * 🤖 Exploring AI/ML applications in education and healthcare
-* 🌱 Continuously sharpening my data structures, systems, and software engineering skills
+* 📈 Diving into quantitative finance, algorithmic trading, and financial modeling
+* 📚 Probably reading a really old textbook
+  
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tumelongono) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tumelongono06@gmail.com) 
 
