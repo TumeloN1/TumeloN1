@@ -3,7 +3,7 @@ Hi, I'm Tumelo - i'm a 3rd year computer science and fintech student at georgia 
 
 ## 🚀 what i'm up to:
 * 🤖 exploring AI/ML applications in education and healthcare
-* 💻 pretending to know about [hpc](https://pace.gatech.edu/)
+* 💻 pretending to know about [hpc](https://pace.gatech.edu/) and [biotech](https://molevol.ibb.gatech.edu/)
 * 📚 probably reading a really old textbook
   
 ## 📲 come say hi:
