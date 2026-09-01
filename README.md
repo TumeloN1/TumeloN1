@@ -4,6 +4,7 @@ Hi, I'm Tumelo - i'm a 3rd year computer science and fintech student at georgia 
 ## 🚀 what i'm up to:
 * 🤖 working on AI/ML projects
 * 💻 pretending to know about [hpc](https://pace.gatech.edu/)
+* ⚽️ [vibecoding](https://pipguardiola.com/)
 * 🏃 running, weightlifting, soccer
   
 ## 📲 come say hi:
