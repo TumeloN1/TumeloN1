@@ -1,5 +1,5 @@
 ## 💫 about me:
-Hi, I'm Tumelo - i'm a 3rd year computer science and fintech student at georgia tech, passionate about building tech that makes a difference. i'm especially interested in backend development, AI/ML, and computing theory.
+Hi, I'm Tumelo - i'm a 3rd year computer science and math student at georgia tech, passionate about building tech that makes a difference. i'm especially interested in backend development, AI/ML, and computing theory.
 
 ## 🚀 what i'm up to:
 * 🤖 working on AI/ML projects
